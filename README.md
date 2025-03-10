@@ -22,10 +22,10 @@ This interactive **HR Dashboard** provides a **comprehensive overview** of workf
 ## 📸 Dashboard Screenshots  
 
 ### **1️⃣ HR Overview Dashboard**  
-![HR Overview Dashboard](images/hr_overview.png)  
+![HR Overview Dashboard](Icons & Images/hr_overview.png)  
 
 ### **2️⃣ Employee List & Filters**  
-![Employee List Dashboard](images/hr_employee_list.png)  
+![Employee List Dashboard](Icons & Images/hr_employee_list.png)  
 
 ## 🚀 Getting Started  
 
